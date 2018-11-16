@@ -1,0 +1,5 @@
+Hola
+Mundo
+Esta línea tiene acentos, && caracteres especiales
+También letra ñ, etc.
+<<<<------------------->>>>
